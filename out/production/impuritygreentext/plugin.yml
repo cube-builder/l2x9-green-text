@@ -1,0 +1,8 @@
+name: ImpurityGreenText
+version: 69.420
+main: me.impurity.greentext.Greentext
+authors: [SevJ6]
+description: Green text plugin for alpha.l2x9.org
+commands:
+  fartbrazil:
+    description: make everybody on the server say they love brazilian fart porn
